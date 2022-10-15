@@ -117,7 +117,7 @@ export default function Home() {
           <div>
             <h3 className="text-3xl py-1 dark:text-white ">Projects</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-            I'm someone who learn by doing, I have built and participated on interesting projects, working on the Front-End (UX/UI), the Back-end or even full-stack web development on some projects.
+            I am  someone who learn by doing, I have built and participated on interesting projects, working on the Front-End (UX/UI), the Back-end or even full-stack web development on some projects.
             </p>
             
           </div>

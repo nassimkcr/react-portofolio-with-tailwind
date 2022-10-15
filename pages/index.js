@@ -68,7 +68,7 @@ export default function Home() {
               </a>
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              <Image src={mypic} layout="fill" objectFit="cover" />
+              <Image src={mypic} alt="" layout="fill" objectFit="cover" />
             </div>
           </div>
         </section>
@@ -130,6 +130,7 @@ export default function Home() {
                 height={"60%"}
                 layout="responsive"
                 src={guild}
+                alt=""
               />
             </a>
             <a href="https://nk-restaurant-client.herokuapp.com/dashboard" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
@@ -139,6 +140,7 @@ export default function Home() {
                 height={"60%"}
                 layout="responsive"
                 src={restaurant}
+                alt=""
               />
             </a>
             <a href="https://floating-cliffs-28544.herokuapp.com/" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
@@ -148,6 +150,7 @@ export default function Home() {
                 height={"60%"}
                 layout="responsive"
                 src={movies}
+                alt=""
               />
             </a>
             <a href="https://github.com/nassimkcr/Flashcard-App" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
@@ -157,6 +160,7 @@ export default function Home() {
                 height={"60%"}
                 layout="responsive"
                 src={flash}
+                alt=""
               />
             </a>
             <a href="https://nassimkcr.github.io/KajabiClone/" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
@@ -166,6 +170,7 @@ export default function Home() {
                 height={"60%"}
                 layout="responsive"
                 src={kajabi}
+                alt=""
               />
             </a>
             <a href="https://nassimkcr.github.io/QuizApp/" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
@@ -175,6 +180,7 @@ export default function Home() {
                 height={"60%"}
                 layout="responsive"
                 src={quiz}
+                alt=""
               />
             </a>
           </div>

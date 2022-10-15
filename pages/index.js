@@ -38,7 +38,7 @@ export default function Home() {
                 />
               </li>
               <li>
-         <a target='_blank' rel='noopener noreferrer' href="https://drive.google.com/file/d/1RQ9omPH39kjg2hgAmZ9Rt-HHlZ_wmO8_/view?usp=sharing"
+         <a target='_blank' rel='noreferrer' href="https://drive.google.com/file/d/1RQ9omPH39kjg2hgAmZ9Rt-HHlZ_wmO8_/view?usp=sharing"
                   className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8" 
                 >
                   Resume
@@ -60,10 +60,10 @@ export default function Home() {
               Currently an intern in a gaming startup, working with in the UX/UI team, building the next big social Gaming App.
             </p>
             <div className="text-5xl flex justify-center gap-8 py-3 text-gray-600 dark:text-gray-400">
-              <a href="https://www.linkedin.com/in/nassim-kecira/" target="_blank" className="transition duration-500 hover:-translate-y-1 hover:scale-125">
+              <a href="https://www.linkedin.com/in/nassim-kecira/" rel="noreferrer" target="_blank" className="transition duration-500 hover:-translate-y-1 hover:scale-125">
               <AiFillLinkedin />
               </a>
-              <a href="https://github.com/nassimkcr" target="_blank" className="transition duration-500 hover:-translate-y-1 hover:scale-125">
+              <a href="https://github.com/nassimkcr" target="_blank" rel="noreferrer" className="transition duration-500 hover:-translate-y-1 hover:scale-125">
               <AiFillGithub />
               </a>
             </div>
@@ -123,7 +123,7 @@ export default function Home() {
           </div>
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
           
-            <a href="https://guildgaming.gg/" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110 ">
+            <a href="https://guildgaming.gg/" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110 ">
               <Image
                 className="rounded-lg object-cover"
                 width={"100%"}
@@ -132,7 +132,7 @@ export default function Home() {
                 src={guild}
               />
             </a>
-            <a href="https://nk-restaurant-client.herokuapp.com/dashboard" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
+            <a href="https://nk-restaurant-client.herokuapp.com/dashboard" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
               <Image
                 className="rounded-lg object-cover"
                 width={"100%"}
@@ -141,7 +141,7 @@ export default function Home() {
                 src={restaurant}
               />
             </a>
-            <a href="https://floating-cliffs-28544.herokuapp.com/" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
+            <a href="https://floating-cliffs-28544.herokuapp.com/" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
               <Image
                 className="rounded-lg object-cover"
                 width={"100%"}
@@ -150,7 +150,7 @@ export default function Home() {
                 src={movies}
               />
             </a>
-            <a href="https://github.com/nassimkcr/Flashcard-App" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
+            <a href="https://github.com/nassimkcr/Flashcard-App" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
               <Image
                 className="rounded-lg object-cover"
                 width={"100%"}
@@ -159,7 +159,7 @@ export default function Home() {
                 src={flash}
               />
             </a>
-            <a href="https://nassimkcr.github.io/KajabiClone/" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
+            <a href="https://nassimkcr.github.io/KajabiClone/" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
               <Image
                 className="rounded-lg object-cover"
                 width={"100%"}
@@ -168,7 +168,7 @@ export default function Home() {
                 src={kajabi}
               />
             </a>
-            <a href="https://nassimkcr.github.io/QuizApp/" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
+            <a href="https://nassimkcr.github.io/QuizApp/" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
               <Image
                 className="rounded-lg object-cover"
                 width={"100%"}

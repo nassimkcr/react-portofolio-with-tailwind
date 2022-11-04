@@ -97,10 +97,10 @@ export default function Home() {
                 Back-End
               </h3>
 
-              <p className="text-gray-800 py-1">NodeJs</p>
-              <p className="text-gray-800 py-1">ExpressJs</p>
+              <p className="text-gray-800 py-1">NodeJs/ExpressJs</p>
+              <p className="text-gray-800 py-1">Python/Flask</p>
               <p className="text-gray-800 py-1">RESTful APIs</p>
-              <p className="text-gray-800 py-1">Knex/PostgreSQL</p>
+              <p className="text-gray-800 py-1">Knex/PostgreSQL/SQLAlchemy</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
               <Image src={tools} width={150} height={150} />

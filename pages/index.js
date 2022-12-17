@@ -133,7 +133,7 @@ export default function Home() {
                 alt=""
               />
             </a>
-            <a href="https://github.com/nassimkcr/starter-restaurant-reservation" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
+            <a href="https://nk-client.onrender.com" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
               <Image
                 className="rounded-lg object-cover"
                 width={"100%"}
@@ -143,7 +143,7 @@ export default function Home() {
                 alt=""
               />
             </a>
-            <a href="https://github.com/nassimkcr/WeLoveMovies-Backend" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
+            <a href="https://nk-movies-client.onrender.com" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
               <Image
                 className="rounded-lg object-cover"
                 width={"100%"}
@@ -153,7 +153,7 @@ export default function Home() {
                 alt=""
               />
             </a>
-            <a href="https://github.com/nassimkcr/Flashcard-App" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
+            <a href="https://nk-flashcard.onrender.com" rel="noreferrer" target="_blank" className="basis-1/3 flex-1 transition duration-500 hover:-translate-y-1 hover:scale-110">
               <Image
                 className="rounded-lg object-cover"
                 width={"100%"}

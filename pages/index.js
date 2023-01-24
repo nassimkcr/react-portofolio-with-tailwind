@@ -18,7 +18,7 @@ import mypic from "../public/mypic.jpeg"
 import quiz from "../public/quiz.png"
 
 export default function Home() {
-  const [darkMode, setDarkMode] = useState(true);
+  const [darkMode, setDarkMode] = useState(false);
 
   return (
     <div className={darkMode ? "dark" : ""}>

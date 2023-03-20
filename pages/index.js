@@ -56,9 +56,6 @@ export default function Home() {
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
               Software engineer who is focused in web developement, built and worked on many web applications, both on the front-end and back-end.
             </p>
-            <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-              Currently an intern in a gaming startup, working with in the UX/UI team, building the next big social Gaming App.
-            </p>
             <div className="text-5xl flex justify-center gap-8 py-3 text-gray-600 dark:text-gray-400">
               <a href="https://www.linkedin.com/in/nassim-kecira/" rel="noreferrer" target="_blank" className="transition duration-500 hover:-translate-y-1 hover:scale-125">
               <AiFillLinkedin />

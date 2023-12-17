@@ -38,7 +38,7 @@ export default function Home() {
                 />
               </li>
               <li>
-         <a target='_blank' rel='noreferrer' href="https://drive.google.com/file/d/1FWmiIHe30Z-9m4UuGGmj13xwsaK92ZX8/view?usp=sharing"
+         <a target='_blank' rel='noreferrer' href="https://drive.google.com/file/d/1y6id4CB85fOClIRfI-mL1Jz6D0XWTNYD/view?usp=drive_link"
                   className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8" 
                 >
                   Resume
